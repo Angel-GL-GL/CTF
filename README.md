@@ -1,1 +1,2 @@
 # CTF
+Repository dedicated to documenting and sharing the solutions and lessons learned from the CTF competitions I've participated in. It includes write-ups and scripts used during the challenges, with a focus on cybersecurity and problem-solving.
